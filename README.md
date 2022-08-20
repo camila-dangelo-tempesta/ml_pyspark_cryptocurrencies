@@ -52,8 +52,13 @@ Note:
 
 - [x] **STEP 05:** **Machine Learning**
     * Linear Regression (Benchmark)
-    * 
+    * Hyperparameter Optimization
 
+<div align="center">
+<p float="left">
+    <img src="/images/modelos.jpg" width="1000" height="500"/>
+</p>
+</div>
 ***
 Made By **Camila D'Angelo**
 
