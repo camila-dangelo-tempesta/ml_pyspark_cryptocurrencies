@@ -59,6 +59,11 @@ Note:
     <img src="/images/modelos.jpg" width="1000" height="500"/>
 </p>
 </div>
+
+WARN messages in training model_v2 indicate that the model appears unstable and may be overfitting.
+
+We will use the **model_v1**
+
 ***
 Made By **Camila D'Angelo**
 
