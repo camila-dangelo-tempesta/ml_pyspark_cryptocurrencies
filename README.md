@@ -51,6 +51,8 @@ Note:
     * Standardization
 
 - [x] **STEP 05:** **Machine Learning**
+    * Linear Regression (Benchmark)
+    * 
 
 ***
 Made By **Camila D'Angelo**
