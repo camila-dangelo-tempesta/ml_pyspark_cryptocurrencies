@@ -36,6 +36,22 @@ Note:
 ***
 ## 3. SOLUTION PLANNING
 
+- [x] **STEP 01:** **Data Cleaning**
+	* Treatment of Missing Values
+    
+- [x] **STEP 02:** **Exploratory Data Analysis**
+    * Analysis of Predictive Variables
+    * Target Variables Analysis
+    
+- [x] **STEP 03:** **Attribute Engineering**
+	* Feature Selection
+	* Feature Extraction    
+    
+- [x] **STEP 04:** **Pre-processing**
+    * Standardization
+
+- [x] **STEP 05:** **Machine Learning**
+
 ***
 Made By **Camila D'Angelo**
 
