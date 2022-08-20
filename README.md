@@ -8,7 +8,7 @@ Transaction blocks contain a SHA-256 cryptographic hash of previous transaction 
 
 <div align="center">
 <p float="left">
-    <img src="/images/analytics.jpg" width="1000" height="500"/>
+    <img src="/images/bitcoin.jpg" width="1000" height="500"/>
 </p>
 </div>
 
